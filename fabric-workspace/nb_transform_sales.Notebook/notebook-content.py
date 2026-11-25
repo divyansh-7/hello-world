@@ -169,3 +169,7 @@ INNER JOIN raw_products  p ON o.product_id  = p.product_id
 # META   "language": "sparksql",
 # META   "language_group": "synapse_pyspark"
 # META }
+
+# MARKDOWN ********************
+
+# adding for git
